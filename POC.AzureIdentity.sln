@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.AzureIdentity.Service", "POC.AzureIdentity.Service\POC.AzureIdentity.Service.csproj", "{9F02342A-8D0C-424F-BBEC-181A1831691D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.AzureIdentity.Client", "POC.AzureIdentity.Client\POC.AzureIdentity.Client.csproj", "{01EF4292-E005-4F86-A926-84471E918B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F02342A-8D0C-424F-BBEC-181A1831691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F02342A-8D0C-424F-BBEC-181A1831691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F02342A-8D0C-424F-BBEC-181A1831691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F02342A-8D0C-424F-BBEC-181A1831691D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01EF4292-E005-4F86-A926-84471E918B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EF4292-E005-4F86-A926-84471E918B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EF4292-E005-4F86-A926-84471E918B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EF4292-E005-4F86-A926-84471E918B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F996FF-F6E9-4C95-9DF9-C69011226106}
+	EndGlobalSection
+EndGlobal
